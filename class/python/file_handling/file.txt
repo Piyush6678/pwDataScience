@@ -1,2 +1,1 @@
-Hello this is my first line in file.txt
-new line
+this is my second line
