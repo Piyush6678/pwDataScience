@@ -1,0 +1,4 @@
+INFO:root:this is my normal information
+WARNING:root:there can be empty list here
+ERROR:root:soem error has happend
+CRITICAL:root:software ha stoped
